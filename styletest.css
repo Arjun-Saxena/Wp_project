@@ -1,0 +1,56 @@
+<html>
+<style>
+
+img{
+height:150px;
+width:150px;
+padding:5px;
+border: 2px solid red;
+}
+
+
+.blue{
+position:relative;
+top:30px;
+background:#ffe0bd;
+width:250px;
+height:400px;
+margin 40px;
+padding 50px;
+border-style:solid;
+border-color:red;
+overflow:scroll;
+}
+
+.nextyellow{
+position:relative;
+left:400px;
+top:-375px;
+background:#ffe0bd;
+width:250px;
+height:400px;
+margin 40px;
+padding 50px;
+border-style:solid;
+border-color:red;
+overflow:scroll;
+}
+
+.blue2{
+position:relative;
+overflow:scroll;
+left:800px;
+top:-775px;
+background:#ffe0bd;
+width:250px;
+height:400px;
+margin 40px;
+padding 50px;
+border-style:solid;
+border-color:red;
+}
+
+
+</style>
+</html>
+ 
